@@ -1,4 +1,4 @@
-import { RecipeListComponent } from './recipe-list/recipe-list.component';
+import { RecipeListComponent } from './recipes/recipe-list/recipe-list.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
